@@ -16,7 +16,7 @@ export function Hero() {
       <div className="absolute inset-0 z-0">
         <iframe
           className="w-full h-full pointer-events-none"
-          src="https://https://youtu.be/dPgx9EH0e7g?si=TbN89oZYbY2_sius/embed/52GoRYP1les?autoplay=1&mute=1&loop=1&playlist=52GoRYP1les&controls=0&modestbranding=1"
+          src="https://youtu.be/dPgx9EH0e7g?si=TbN89oZYbY2_sius/embed/52GoRYP1les?autoplay=1&mute=1&loop=1&playlist=52GoRYP1les&controls=0&modestbranding=1"
           title="Nano Background"
           allow="autoplay; fullscreen"
         />
