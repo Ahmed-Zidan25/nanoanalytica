@@ -13,7 +13,7 @@ export function Hero() {
     <section className="relative h-screen overflow-hidden">
 
       {/* 🎬 Background Video */}
-      <div className="absolute inset-0 z-0">
+<div className="absolute inset-0 z-0">
   <iframe
     className="w-full h-full pointer-events-none"
     src="https://www.youtube.com/embed/dPgx9EH0e7g?autoplay=1&mute=1&loop=1&playlist=dPgx9EH0e7g&controls=0&modestbranding=1&cc_load_policy=0&iv_load_policy=3&rel=0"
