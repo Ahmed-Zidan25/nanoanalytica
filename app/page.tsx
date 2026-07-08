@@ -10,7 +10,7 @@ export default function Page() {
   return (
     <main className="min-h-screen bg-background">
       <Header />
-      <div className="pt-16">
+      <div className="pt-16 space-y-12">
         <Hero />
         <Features />
         <UseCases />

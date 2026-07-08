@@ -3,6 +3,10 @@
 @import 'shadcn/tailwind.css';
 
 @custom-variant dark (&:is(.dark *));
+section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
 
 @theme inline {
   --color-sidebar-ring: var(--sidebar-ring);
