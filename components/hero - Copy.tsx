@@ -13,14 +13,7 @@ export function Hero() {
     <section className="relative h-screen overflow-hidden">
 
       {/* 🎬 Background Video */}
-<video
-  autoPlay
-  muted
-  loop
-  playsInline
-  preload="auto"
-  className="w-full h-full object-cover"
->
+<video autoPlay muted loop playsInline className="w-full h-full object-cover">
   <source src="/newvideo.mp4" type="video/mp4" />
 </video>
 
