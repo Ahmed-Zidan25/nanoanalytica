@@ -21,7 +21,7 @@ export function Hero() {
   preload="auto"
   className="w-full h-full object-cover"
 >
-  <source src="/newvideo.mp4" type="video/mp4" />
+  <source src="/new-video.mp4" type="video/mp4" />
 </video>
 
       {/* 🌑 Overlay */}
